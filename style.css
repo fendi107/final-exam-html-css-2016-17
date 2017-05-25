@@ -3,14 +3,18 @@ body {
 	max-width: 800px;
 	margin: 40px auto;
 	padding: 10px 0;
-	line-height: 1em;
-	font-size: 1em;
+	line-height: 1.4em;
+	font-size: 1.4em;
 }
 
 img {
+	max-width: 100%;
+	margin: auto
 	display: block;
 }
 
 cite {
+	background-color: white;
+	
 	
 }
